@@ -1,4 +1,4 @@
-## A Resume
+## Sukanta's Resume
 
 A backend developer's portfolio/resume, a single-page website built with plain **HTML**. It’s lightweight, fast, and easy to customize.
 
