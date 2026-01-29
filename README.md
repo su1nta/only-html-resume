@@ -4,6 +4,8 @@ A simple, single-page resume website built with plain **HTML**. It’s lightweig
 
 [Live Link](https://sukanta.dev)
 
+![Screenshot](html-resume-ss.png)
+
 ### What’s inside
 
 - Single-page resume layout
