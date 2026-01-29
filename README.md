@@ -1,6 +1,6 @@
-## Resume Website (HTML)
+## A Resume
 
-A simple, single-page resume website built with plain **HTML**. It’s lightweight, fast, and easy to customize.
+A backend developer's portfolio/resume, a single-page website built with plain **HTML**. It’s lightweight, fast, and easy to customize.
 
 [Live Link](https://sukanta.dev)
 
